@@ -8,4 +8,4 @@
 ## Usage
 * Discarded the records which has release date less than 01/01/1990.
 * Search by song functionality implemented at top bar of the page.
-* For sorting : click on up or down button shown on every column of the table.
+* For sorting : click on up (desc) or down (asc) button shown on every column of the table.
