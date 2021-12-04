@@ -9,4 +9,4 @@
 * Discarded the records which has release date less than 01/01/1990.
 * Search by song functionality implemented at top bar of the page.
 * For sorting : There is a up and down button on every column of the table
-* Press up arrow to sort the data in descending and down for descending.
+* Press up arrow to sort the data in descending and down for ascending.
